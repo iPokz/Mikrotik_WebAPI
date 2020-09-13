@@ -1,0 +1,45 @@
+Javascript
+jquery1.10.15dataTables.min.js
+jquery-1.12.4.js
+dataTables.bootstrap.min.js
+bootstrap3.37.min.css
+dataTables1.10.15.bootstrap.min.css
+
+
+<link rel="stylesheet" href="../plugins/datatable/dataTables1.10.15.bootstrap.min.css"><!--ตาราง ค้นหา  -->
+	<link href="../plugins/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script><!-- click check box --> 
+
+   
+
+
+
+
+	 <!-- DataTables JavaScript -->
+    <script src="../assets/js/plugins/dataTables/jquery.dataTables.js"></script>
+    <script src="../assets/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+
+
+
+//cdn.datatables.net/plug-ins/1.10.15/i18n/Thai.json
+
+{
+    "sProcessing":   "กำลังดำเนินการ...",
+    "sLengthMenu":   "แสดง _MENU_ แถว",
+    "sZeroRecords":  "ไม่พบข้อมูล",
+    "sInfo":         "แสดง _START_ ถึง _END_ จาก _TOTAL_ แถว",
+    "sInfoEmpty":    "แสดง 0 ถึง 0 จาก 0 แถว",
+    "sInfoFiltered": "(กรองข้อมูล _MAX_ ทุกแถว)",
+    "sInfoPostFix":  "",
+    "sSearch":       "ค้นหา: ",
+    "sUrl":          "",
+    "oPaginate": {
+        "sFirst":    "หน้าแรก",
+        "sPrevious": "ก่อนหน้า",
+        "sNext":     "ถัดไป",
+        "sLast":     "หน้าสุดท้าย"
+    }
+}
+
+
+

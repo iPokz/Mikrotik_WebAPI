@@ -1,0 +1,3 @@
+uddate vertion 26/aug/2017
+1.สร้าง comment ไทยได้ ในโปรไฟล์ที่ไม่ต้องการกำหนดวันหมดอายุ
+2.import/export รองรับ comment ไทย
